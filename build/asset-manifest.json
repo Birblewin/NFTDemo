@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e652679.css",
+    "main.js": "/static/js/main.8502d23d.js",
+    "static/media/timeless.png": "/static/media/timeless.0a75f7ca489363071ee5.png",
+    "index.html": "/index.html",
+    "main.0e652679.css.map": "/static/css/main.0e652679.css.map",
+    "main.8502d23d.js.map": "/static/js/main.8502d23d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e652679.css",
+    "static/js/main.8502d23d.js"
+  ]
+}
