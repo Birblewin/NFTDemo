@@ -1,6 +1,6 @@
 
-# Truffle-Tailwind-React Web3 Starter Kit
-Speedily develope your decentralized application with this starter kit for free!
+# Birble NFT Market Place DEMO Code
+
 
 Follow the steps below to download, install, and run this project.
 
@@ -13,7 +13,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/Daltonic/tailwind_truffle_starter_kit <PROJECT NAME>`
+`git clone https://github.com/Birblewin/NFTDemo <PROJECT NAME>`
 
 ## Step 2. Install dependencies
 ```sh
